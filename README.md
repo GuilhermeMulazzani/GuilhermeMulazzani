@@ -16,7 +16,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para saber mais sobre mim e sobre meus Projetos e Habilidades, acesse os Links Abaixo!
  
 <div>
   <a href="https://www.instagram.com/guigital/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
