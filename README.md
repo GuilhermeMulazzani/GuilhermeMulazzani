@@ -1,21 +1,20 @@
 ## Bem-vindo(a) ao perfil do Guilherme Mulazzani 😄
 
- <div>
-   <a href="https://github.com/GuilhermeMulazzani">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMulazzani&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMulazzani&layout=compact&langs_count=6&theme=nightowl"/>
-</div>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=GuilhermeMulazzani&show_icons=true&theme=merko"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=GuilhermeMulazzani&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeMulazzani&show_icons=true" />
 </picture>
+ <div>
+   <a href="https://github.com/GuilhermeMulazzani">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMulazzani&layout=compact&langs_count=6&theme=merko"/>
+</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,6 +24,8 @@
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="dotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
+          
           
           
           
