@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 320" width="470" height="320">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1px; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 18px; font-weight: 700; fill: #f0f6fc; }
+      .subtitle { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; fill: #8b949e; }
+      .link { font-family: "Courier New", Consolas, monospace; font-size: 11px; fill: #58a6ff; font-weight: bold; }
+      .lang-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; fill: #c9d1d9; font-weight: 500; }
+      .pct-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 12px; fill: #8b949e; font-weight: bold; text-anchor: end; }
+      .bar-bg { fill: #21262d; rx: 4; }
+      .bar-fill { rx: 4; }
+    </style>
+  </defs>
+
+  <!-- Fundo e Moldura -->
+  <rect class="bg" width="468" height="318" x="1" y="1" rx="6" ry="6" />
+
+  <!-- Cabeçalho -->
+  <text x="25" y="38" class="title">Language Stack</text>
+  <text x="445" y="38" class="link" text-anchor="end">&gt; stack.scan</text>
+  <text x="25" y="55" class="subtitle">Repository-weighted technologies</text>
+
+  <!-- Linha 1: C++ -->
+  <text x="40" y="92" class="lang-text">C++</text>
+  <text x="175" y="92" class="pct-text">45%</text>
+  <rect x="200" y="81" width="240" height="12" class="bar-bg" />
+  <rect x="200" y="81" width="108" height="12" class="bar-fill" fill="#f85149" />
+
+  <!-- Linha 2: Dart / Flutter -->
+  <text x="40" y="132" class="lang-text">Dart</text>
+  <text x="175" y="132" class="pct-text">25%</text>
+  <rect x="200" y="121" width="240" height="12" class="bar-bg" />
+  <rect x="200" y="121" width="60" height="12" class="bar-fill" fill="#58a6ff" />
+
+  <!-- Linha 3: Kotlin -->
+  <text x="40" y="172" class="lang-text">Kotlin</text>
+  <text x="175" y="172" class="pct-text">15%</text>
+  <rect x="200" y="161" width="240" height="12" class="bar-bg" />
+  <rect x="200" y="161" width="36" height="12" class="bar-fill" fill="#a371f7" />
+
+  <!-- Linha 4: JavaScript / TS -->
+  <text x="40" y="212" class="lang-text">JavaScript</text>
+  <text x="175" y="212" class="pct-text">10%</text>
+  <rect x="200" y="201" width="240" height="12" class="bar-bg" />
+  <rect x="200" y="201" width="24" height="12" class="bar-fill" fill="#f1e05a" />
+
+  <!-- Linha 5: Python -->
+  <text x="40" y="252" class="lang-text">Python</text>
+  <text x="175" y="252" class="pct-text">5%</text>
+  <rect x="200" y="241" width="240" height="12" class="bar-bg" />
+  <rect x="200" y="241" width="12" height="12" class="bar-fill" fill="#3fb950" />
+  
+  <!-- Rodapé interno -->
+  <text x="445" y="295" class="subtitle" text-anchor="end">gitskins.com</text>
+</svg>
