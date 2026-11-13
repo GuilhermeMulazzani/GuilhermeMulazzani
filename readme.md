@@ -4,14 +4,10 @@
   
   <br><br>
 
-  <!-- 2º: Par lado a lado (ASCII na esquerda + Info-Card na direita, sem bordas externas) -->
-  <p align="center">
-    <img src="./guiZani-ascii.svg" width="43%" align="top" alt="ASCII Portrait" />
-    &nbsp;
-    <img src="./info-card.svg" width="55%" align="top" alt="Terminal Neofetch Info" />
-  </p>
+  <!-- 2º: Box Único com Info-Card na Esquerda e ASCII na Direita -->
+  <img src="./info-card.svg" width="100%" alt="Terminal Neofetch and ASCII Portrait" />
 
-  <br>
+  <br><br>
 
   <!-- 3º: Stack separada por categorias com logos em Neon Vazado -->
   <img src="./language-stack.svg" width="100%" alt="Language Stack by Category" />
