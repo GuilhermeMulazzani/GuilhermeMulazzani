@@ -1,22 +1,22 @@
 {
   "username": "GuilhermeMulazzani",
-  "generated_at": "2026-11-25T17:09:16Z",
+  "generated_at": "2026-11-26T16:50:16Z",
   "range": {
     "start": "2025-11-23",
+    "end": "2026-11-26"
+  },
+  "total_contributions": 100,
+  "active_days": 33,
+  "avg_per_active_day": 3.0,
+  "current_streak": {
+    "length": 17,
+    "start": "2026-11-09",
     "end": "2026-11-25"
   },
-  "total_contributions": 99,
-  "active_days": 32,
-  "avg_per_active_day": 3.1,
-  "current_streak": {
-    "length": 16,
-    "start": "2026-11-09",
-    "end": "2026-11-24"
-  },
   "longest_streak": {
-    "length": 16,
+    "length": 17,
     "start": "2026-11-09",
-    "end": "2026-11-24"
+    "end": "2026-11-25"
   },
   "best_day": {
     "date": "2026-11-12",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-11",
-      "total": 51
+      "total": 52
     }
   ],
   "days": [
@@ -1914,6 +1914,11 @@
     },
     {
       "date": "2026-11-25",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-26",
       "count": 0,
       "level": 0
     }
